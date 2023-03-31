@@ -1,6 +1,6 @@
 Name:		texlive-windycity
 Version:	61223
-Release:	1
+Release:	2
 Summary:	A Chicago style for BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/windycity
