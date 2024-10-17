@@ -3,7 +3,7 @@ Version:	67011
 Release:	1
 Summary:	A Chicago style for BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/windycity
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/windycity
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/windycity.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/windycity.doc.r%{version}.tar.xz
